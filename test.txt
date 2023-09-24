@@ -2,4 +2,6 @@
 我切回到了main分支，修改问题，问题修改好了
 我要切回到 anNewBranch继续修改了
 
+现在 是 anNewBranch， 我做了一些修改，但是main分支出了一些问题，我不得不回到main分支，但是我希望保留我的修改的同时切回main分支
+我修改好anNewBranch 分支的问题，我要合并到main分支上
 
